@@ -1,2 +1,2 @@
-# Proyecto-_LocaTEC
-Repositorio de avances del proyecto LocaTEC
+# Proyecto-_UbicaTec
+Repositorio de avances del proyecto UbicaTec
